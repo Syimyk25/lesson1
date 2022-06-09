@@ -28,6 +28,8 @@ git remote remove origin -  удалить
 git branch - ветка
 git branch test - новая ветка (тест - название)
 git chechout и название ветки- выйти с ветки
+
+git pull origin master
 """
 
 
